@@ -583,7 +583,7 @@ s.Stop()
 MS = s.ElapsedMilliseconds()
 
 	Exit Sub
-Next
+Nexts dsfsfsfsfsfsfdfsf
 
 Found = False
 X = -1
