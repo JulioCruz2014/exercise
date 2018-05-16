@@ -1,4 +1,0 @@
-esta es la nota 1
-esta es la linea 2
-esta es la linea 3
-esta es la linea 4
